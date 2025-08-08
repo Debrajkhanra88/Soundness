@@ -51,7 +51,7 @@ Importing a Key Pair
 To import an existing key pair from a mnemonic phrase:
 
 ```console
-soundness-cli import-key --name my-key
+soundness-cli import-key --name <name> --mnemonic "<mnemonic>"
 ```
 
 Listing Key Pairs
